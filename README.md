@@ -1,6 +1,6 @@
 # Cybersecurity Fundamentals: A Short Guide
 
-Date: 2025-02-26
+Date: 2025-01-26
 
 ## Introduction
 Cybersecurity is a critical field dedicated to protecting information systems, networks, and data from cyber threats. As technology evolves, so do the methods and sophistication of cyberattacks. This blog post explores the fundamental concepts of cybersecurity...
