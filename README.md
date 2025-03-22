@@ -1,4 +1,4 @@
-# Cybersecurity Fundamentals: A Short Guide
+# Blog: Cybersecurity Fundamentals: A Short Guide
 
 Date: 2025-01-26
 
